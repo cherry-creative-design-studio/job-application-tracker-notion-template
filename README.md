@@ -2,7 +2,7 @@
 
 A simple Notion template designed to help job seekers organize, track, and manage their job applications in one place.
 
-<img width="1061" height="652" alt="image" src="https://github.com/user-attachments/assets/fc78567d-114c-4fb4-a526-59ade5d18131" />
+<img width="1091" height="547" alt="image" src="https://github.com/user-attachments/assets/53271e11-d741-4464-aa78-7d72599bd3a8" />
 
 ### Features
 
