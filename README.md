@@ -22,14 +22,8 @@ Designed for:
 - Job seekers who want a structured application system
 - Professionals tracking career opportunities
 
-### Get the Template
+### Get the Template for FREE!!
 
 Stop losing track of applications across spreadsheets, notes, and browser tabs.
 
-The Job Application Tracker helps you organize your job search, stay consistent, and manage every opportunity from application to offer.
-
-Available on Notion Marketplace — **FREE!**
-
-Get your copy here:
-
-[Job Application Tracker](https://www.notion.com/templates/job-application-tracker-simple)
+Get yours now: [Job Application Tracker](https://www.notion.com/templates/job-application-tracker-simple)
